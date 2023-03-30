@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Desarrollo de software\Desarrollo de software\bin\Debug\Desarrollo de software.exe.config
+C:\Users\Admin\source\repos\Desarrollo de software\Desarrollo de software\bin\Debug\Desarrollo de software.exe
+C:\Users\Admin\source\repos\Desarrollo de software\Desarrollo de software\bin\Debug\Desarrollo de software.pdb
+C:\Users\Admin\source\repos\Desarrollo de software\Desarrollo de software\obj\Debug\Desarrollo de software.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Desarrollo de software\Desarrollo de software\obj\Debug\Desarrollo de software.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Desarrollo de software\Desarrollo de software\obj\Debug\Desarrollo de software.exe
+C:\Users\Admin\source\repos\Desarrollo de software\Desarrollo de software\obj\Debug\Desarrollo de software.pdb
